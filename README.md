@@ -18,6 +18,7 @@
 **Installation:**
 > ox_inventory/data/items.lua
 ```lua
+
   	['scontrino_baby'] = {
 		  label = 'Scontrino Burger King',
   		weight = 1,
