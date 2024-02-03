@@ -1,6 +1,6 @@
 **🍔​ WQUAL BURGER SHOP 🍔​**
 
-*This script will allow you to purchase various products, at the burge shop, independently.*
+*With the "Wqual Burger Shop" script, the experience of ordering a delicious burger at the Burger Shot becomes automatic and very convenient. Players can simply approach the restaurant's tablets, interact with a virtual menu and receive their favorite burger without the need for complex interactions.*
 
 **Frameworks:**
 
